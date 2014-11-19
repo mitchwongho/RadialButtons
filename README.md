@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Radial%20Button%20Layout-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1142)
+
 # Radial Button Layout
 
 This example project illustrates how to implement an animated radial button layout in Android.
